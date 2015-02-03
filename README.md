@@ -22,6 +22,6 @@ When you finish each fiddle, click the 'update' button and that will create your
 * [Loop] - http://jsfiddle.net/YM7th/ - http://jsfiddle.net/YM7th/377/
 * [oddsAndEvens] - http://jsfiddle.net/4zfcz/ - http://jsfiddle.net/4zfcz/334/
 * [me] - http://jsfiddle.net/5Ua3r/ - http://jsfiddle.net/5Ua3r/293/
-* [favoriteThings] - http://jsfiddle.net/zCcnT/ - SOLUTION-URL
+* [favoriteThings] - http://jsfiddle.net/zCcnT/ - http://jsfiddle.net/zCcnT/343/
 * [firstLoop] - http://jsfiddle.net/Lgf3G/ - SOLUTION-URL
 * [userObj] - http://jsfiddle.net/VkvMV/ - SOLUTION-URL
